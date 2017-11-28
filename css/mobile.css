@@ -103,6 +103,9 @@
         position: relative;
         text-align: center;
     }
+    .cpdesc{
+        line-height: 1.7;
+    }
     .item-3>.desc>.title{
         margin-bottom: 30px;
         color: #498DFF;
