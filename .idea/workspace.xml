@@ -2,54 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c550486-7008-4b84-a363-9b96c96ddc44" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/banner/scaninfo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/banner/txtmb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/banner/txtpc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/main 2/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/main 2/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/main 2/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/main 2/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/main 2/use.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/main1/icon1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile/appcode.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile/bj.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile/concat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile/dw.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile/instruc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile/instruc2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile/kamao.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile/publiccode.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile/qianbao.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile/user.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile/关于我们.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile/卡猫 信用卡管家.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile/地址.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile/手机.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile/手机样机.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile/按钮.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile/电话.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/mobile/邮箱.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/729403898453650050.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/737661413736897949.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/921706242120430154.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/main 2/icon 1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/main 2/icon 2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/main 2/icon 4png.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/main 2/icon 5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/main 2/icon3 png.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/main1/icon 1.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/banner/BJ.png" afterPath="$PROJECT_DIR$/img/banner/BJ.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/banner/phone.png" afterPath="$PROJECT_DIR$/img/banner/phone.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/main3/icon 3.png" afterPath="$PROJECT_DIR$/img/main3/icon 3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/main3/icon 4.png" afterPath="$PROJECT_DIR$/img/main3/icon 4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/main3/icon 5.png" afterPath="$PROJECT_DIR$/img/main3/icon 5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/main3/icon1.png" afterPath="$PROJECT_DIR$/img/main3/icon1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/main3/icon2.png" afterPath="$PROJECT_DIR$/img/main3/icon2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -65,20 +18,20 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="675">
+              <caret line="114" column="37" lean-forward="true" selection-start-line="114" selection-start-column="37" selection-end-line="114" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
+            <state relative-caret-position="25">
               <caret line="54" column="33" lean-forward="false" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
               <folding />
             </state>
@@ -88,7 +41,7 @@
       <file leaf-file-name="mobile.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/mobile.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
+            <state relative-caret-position="1600">
               <caret line="64" column="5" lean-forward="false" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
               <folding />
             </state>
@@ -98,7 +51,7 @@
       <file leaf-file-name="index-mobile.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index-mobile.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="577">
+            <state relative-caret-position="4850">
               <caret line="194" column="67" lean-forward="false" selection-start-line="194" selection-start-column="67" selection-end-line="194" selection-end-column="67" />
               <folding />
             </state>
@@ -145,9 +98,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/mobile.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index-mobile.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -178,7 +131,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -239,7 +192,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -352,12 +305,14 @@
       <option name="presentableId" value="Default" />
       <updated>1511747408487</updated>
       <workItem from="1511747410131" duration="10626000" />
-      <workItem from="1511767741486" duration="9337000" />
+      <workItem from="1511767741486" duration="9936000" />
+      <workItem from="1511792114634" duration="9000" />
+      <workItem from="1511834586045" duration="253000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19963000" />
+    <option name="totallyTimeSpent" value="20824000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2268" height="1477" extended-state="0" />
@@ -366,12 +321,12 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -392,6 +347,70 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/mobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1600">
+          <caret line="64" column="5" lean-forward="false" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-mobile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4850">
+          <caret line="194" column="67" lean-forward="false" selection-start-line="194" selection-start-column="67" selection-end-line="194" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="54" column="33" lean-forward="false" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/mobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1600">
+          <caret line="64" column="5" lean-forward="false" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-mobile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4850">
+          <caret line="194" column="67" lean-forward="false" selection-start-line="194" selection-start-column="67" selection-end-line="194" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="54" column="33" lean-forward="false" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -440,23 +459,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/mobile.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
+        <state relative-caret-position="1600">
           <caret line="64" column="5" lean-forward="false" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index-mobile.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="577">
+        <state relative-caret-position="4850">
           <caret line="194" column="67" lean-forward="false" selection-start-line="194" selection-start-column="67" selection-end-line="194" selection-end-column="67" />
           <folding />
         </state>
@@ -464,8 +475,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
+        <state relative-caret-position="25">
           <caret line="54" column="33" lean-forward="false" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="114" column="37" lean-forward="true" selection-start-line="114" selection-start-column="37" selection-end-line="114" selection-end-column="37" />
           <folding />
         </state>
       </provider>
